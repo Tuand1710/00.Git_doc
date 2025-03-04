@@ -1,6 +1,8 @@
 2. Git version:
 
    ` $ git --v`
+   
+   `git remote show origin`
 
     Kiểm tra phiên bản của Git.
 

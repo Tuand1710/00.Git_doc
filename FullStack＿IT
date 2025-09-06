@@ -1,0 +1,19 @@
+FullStack
+
+1: Frontend: React,(bootstrap, Tailwind Css) ung dung (web, mobile, desktop)
+
+2.Backend:  (viet cac serever hay API) Express, Flask ( dung cho python)
+
+3.Database: PstageSQL, MongoDB
+
+Webserver: Nginx (co nhieu tinh nang, reverse proxy, load balancer)
+
+
+Test: -unit test, 
+ selenium (muc do cao)- test he thong,
+ postman
+
+Devops: Linux, docker, Aws)
+
+CI/CD: Jenkins,  teraform, ansible
+Git: quan ly sourcode
